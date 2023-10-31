@@ -1,0 +1,2 @@
+# T3-ZEBRA-STRIPE-TABLE
+ languages:- HTML&CSS

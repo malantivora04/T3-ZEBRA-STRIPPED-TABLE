@@ -1,0 +1,51 @@
+.fontW{
+    color:white;
+}
+.fontB{
+    color: blueviolet;
+}
+.fontO{
+    color: orangered;
+}
+body{
+    background-color: blueviolet;
+}
+table {
+    margin-left: 100ox;
+    border-collapse: collapse;
+    border-color: black;
+    width: 100%;
+}
+th, td {
+    text-align: left;
+    padding: 16px;
+    border: 1px solid black;
+  }
+  
+  tr:nth-child(odd) {
+    background-color:rgb(66, 10, 119);
+  }
+ 
+  h1{
+    text-align: center;
+  }
+  h3{
+    text-align: center;
+  }
+  .r1c1{
+    color: orangered;
+    background-color: lightgray;
+  }
+  .r2c2{
+    background-color: lightgray;
+  }
+  .r2c3{
+    background-color: lightgray;
+  }
+  .highlight{
+    border-left: 6px solid green;
+    border-top: 3px solid green;
+    border-bottom: 3px solid green;
+    border-right: 6px solid green;
+    background-color: yellow;
+  }
